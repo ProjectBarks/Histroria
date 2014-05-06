@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- the theme applied to the application or activity -->
+    <style name="CustomizedHolo"
+        parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/HistoriaActionBar</item>
+    </style>
+
+    <!-- ActionBar styles -->
+    <style name="HistoriaActionBar"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">#5016a085</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:selectableItemBackground">@color/transparent</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Histroria.iml" filepath="$PROJECT_DIR$/Histroria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Histroria/Histroria-Histroria.iml" filepath="$PROJECT_DIR$/Histroria/Histroria-Histroria.iml" />
+    </modules>
+  </component>
+</project>
+
